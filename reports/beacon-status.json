@@ -1,0 +1,60 @@
+{
+  "as_of": "2036-12-15T18:00Z",
+  "beacon_count": 6,
+  "beacons": [
+    {
+      "beacon": "BCN-112",
+      "model": "Pulse A3",
+      "station": "North Patrol",
+      "battery": 79,
+      "self_test": "FAIL",
+      "tested_at": "2036-12-04T11:00Z",
+      "status": "FAIL"
+    },
+    {
+      "beacon": "BCN-107",
+      "model": "Vector Mini",
+      "station": "East Gate",
+      "battery": 35,
+      "self_test": "PASS",
+      "tested_at": "2036-12-03T10:00Z",
+      "status": "REPLACE"
+    },
+    {
+      "beacon": "BCN-121",
+      "model": "Vector Mini",
+      "station": "Lake Post",
+      "battery": 58,
+      "self_test": "PASS",
+      "tested_at": "2036-12-05T12:00Z",
+      "status": "SERVICE"
+    },
+    {
+      "beacon": "BCN-118",
+      "model": "Echo Pro",
+      "station": "West Cache",
+      "battery": null,
+      "self_test": null,
+      "tested_at": null,
+      "status": "MISSING"
+    },
+    {
+      "beacon": "BCN-104",
+      "model": "Pulse A3",
+      "station": "Summit Hut",
+      "battery": 88,
+      "self_test": "PASS",
+      "tested_at": "2036-12-02T09:30Z",
+      "status": "READY"
+    },
+    {
+      "beacon": "BCN-130",
+      "model": "Echo Pro",
+      "station": "South Cabin",
+      "battery": 72,
+      "self_test": "PASS",
+      "tested_at": "2036-12-06T13:00Z",
+      "status": "READY"
+    }
+  ]
+}
