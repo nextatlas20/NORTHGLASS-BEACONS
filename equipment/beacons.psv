@@ -1,0 +1,14 @@
+beacon|model|station|issued|revision
+BCN-104|Pulse A3|Summit Hut|2036-10-01|1
+BCN-107|Vector Mini|East Gate|2036-10-03|1
+BCN-112|Pulse A3|North Patrol|2036-10-05|1
+BCN-118|Echo Pro|West Cache|2036-10-07|1
+BCN-121|Vector Mini|Lake Post|2036-10-08|1
+BCN-130|Echo Pro|South Cabin|2036-10-09|1
+BCN-104|Pulse A3|Summit Hut|2036-10-02|2
+BCN-107|Vector Mini|East Gate|2036-10-04|2
+BCN-121|Vector Mini|Lake Post|2036-10-10|2
+BCN-999|Bad Unit|Nowhere|2036-02-30|1
+BCN-118|Echo Pro|West Cache|2037-01-01|2
+BCN-12|Broken|Depot|2036-10-01|1
+BCN-130|Echo Pro|South Cabin|2036-10-09|01
